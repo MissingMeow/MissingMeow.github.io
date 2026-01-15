@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/node": "^25.0.8",
+    "gray-matter": "^4.0.3",
+    "vitepress": "^2.0.0-alpha.15"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  }
+}
